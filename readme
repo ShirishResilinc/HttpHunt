@@ -1,0 +1,8 @@
+Steps to run
+
+1. Run Command mvn install packge
+2. After successfully creation of jar file
+run 
+java -jar target/httphunt.jar
+
+If you wish to pass different user id for testing use -DuserId flag
